@@ -1,0 +1,82 @@
+.header{
+    color: whitesmoke;
+    background-color: rgb(5, 31, 80);
+    float:left;
+    
+}
+.desc{
+    width:80%;
+}
+.image{
+    
+    padding-top: 40px;
+    width:20%;
+}
+#i{
+    border-radius:50%;
+}
+
+.main h2{
+    color: rgb(5, 31, 80);
+    text-decoration: underline;
+}
+.left{
+    width:50%;
+}
+.right{
+    
+    width:50%;
+}
+ .vertical {
+    border-left: 6px solid black;
+    height: 805px;
+    position:absolute;
+    left: 45%;
+} 
+.right{
+    padding-left: 20px;
+}
+th{
+    border: 2px solid black;
+  border-radius: 20px;
+  
+}
+.interest{
+    justify-content: space-between;
+}
+
+  
+}
+.main_left{
+    width: 50%;
+    border-right: 5px solid rgb(0, 0, 12);
+    
+}
+.main_right{
+    padding-left: 180px;
+    width: 50%;
+}
+/* footer{
+    text-align: center;
+    color: black;
+    /* background-color: rgb(5, 31, 80);  */
+
+ */
+section{
+    color: black;
+    background-color: rgb(5, 31, 80); 
+
+
+}
+footer{
+
+    text-align: center;
+    background-color: rgb(5, 31, 80); 
+}
+footer p{
+    color:whitesmoke;
+}
+.main{
+    display: flex;
+    gap: 23px;
+}
